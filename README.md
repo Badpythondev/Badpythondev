@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Badpythondev
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on most projects
-- 📫 How to reach me eduardtiru5@gmail.com
+- 📫 How to reach me jognnywannila@gmail.com
 
 <!---
 Badpythondev/Badpythondev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
